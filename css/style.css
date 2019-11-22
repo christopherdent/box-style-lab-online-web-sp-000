@@ -31,18 +31,7 @@ h4 {
    
 }
 
-h4.amiable{
-  background: linear-gradient(to left, #78EA85, #468835);
-}
 
-h4.indifferent{
-  background: linear-gradient(to left, #B9B93A, #767713);
-  
-}
-
-h4.dubious {
-  background: linear-gradient(to left, #AB311C, #761F0F);
-}
 
 .amiable {
   border: 1px solid #22aa44;
