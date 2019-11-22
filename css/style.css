@@ -9,7 +9,9 @@ body, html {
 }
 
 
-
+img {
+  border: 1px;
+}
 
 .container, h1 {
   width: 80%;
